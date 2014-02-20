@@ -1,0 +1,12 @@
+[Version]
+Version=9.3
+[Designs]
+project2=.\project2\project2.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+project2=1

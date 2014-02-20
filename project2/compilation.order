@@ -1,0 +1,6 @@
+.\src\simple.v
+.\src\testBench\simple_tb.v
+.\src\Rotary\rotary_tb.v
+.\src\Rotary\rotary.v
+.\src\RotaryQueue\rotaryQueue_tb.v
+.\src\RotaryQueue\rotaryQueue.v

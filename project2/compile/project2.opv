@@ -1,0 +1,1 @@
+ -erf "d:\Program Files (x86)\Aldec\Designs\proj2\project2\compile\project2.erf" -work project2 -lc "d:/Program Files (x86)/Aldec/Designs/proj2/library.cfg" -fl "d:/Program Files (x86)/Aldec/Designs/proj2/project2/projlib.cfg" -o "d:/Program Files (x86)/Aldec/Designs/proj2/project2/compile" -l "project2" -sve   -O2 -l SPARTAN3

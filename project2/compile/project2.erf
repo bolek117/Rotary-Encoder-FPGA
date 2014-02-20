@@ -1,0 +1,25 @@
+MESSAGE "Pass 1. Scanning modules hierarchy."
+MESSAGE_SP VCP2113 "Module \$root found in current working library."
+BEGINPROGRESS Compiling...
+UPDATEPROGRESS 35
+MESSAGE_SP VCP2113 "Module rotary found in current working library."
+MESSAGE "Pass 2. Processing instantiations."
+MESSAGE_SP VCP2876 "Implicit net declaration, symbol rotl_out has not been declared in module rotary_tb." "d:/Program Files (x86)/Aldec/Designs/proj2/project2/src/Rotary/rotary_tb.v" 12  19
+MESSAGE_SP VCP2876 "Implicit net declaration, symbol rotr_out has not been declared in module rotary_tb." "d:/Program Files (x86)/Aldec/Designs/proj2/project2/src/Rotary/rotary_tb.v" 13  19
+MESSAGE_SP VCP2876 "Implicit net declaration, symbol push_out has not been declared in module rotary_tb." "d:/Program Files (x86)/Aldec/Designs/proj2/project2/src/Rotary/rotary_tb.v" 14  19
+UPDATEPROGRESS 45
+MESSAGE "Pass 3. Processing behavioral statements."
+UPDATEPROGRESS 80
+MESSAGE "Running Optimizer."
+MESSAGE "ELB/DAG code generating."
+MESSAGE_SP VCP2113 "Module \$root found in current working library."
+MESSAGE_SP VCP2113 "Module simple_tb found in current working library."
+MESSAGE_SP VCP2113 "Module rotaryQueue_tb found in current working library."
+UPDATEPROGRESS 86
+UPDATEPROGRESS 93
+UPDATEPROGRESS 100
+MESSAGE "Unit top modules: rotary_tb."
+MESSAGE "$root top modules: rotary_tb simple_tb rotaryQueue_tb."
+ENDPROGRESS Compiling...
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time: 0[s]."
+MESSAGE "done"

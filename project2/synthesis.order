@@ -1,0 +1,6 @@
+i<>.\src\rotary.v
+i<>.\src\rotary_tb.v
+i<>.\src\simple_tb.v
+i<>.\src\simple.v
+i<>.\src\rotaryQueue.v
+i<>.\src\rotaryQueue_tb.v

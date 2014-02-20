@@ -1,0 +1,78 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=3
+Current Config=compile
+
+[Configurations]
+compile=project2
+
+[Library]
+project2=.\project2\project2.lib
+
+[Settings]
+AccessRead=0
+AccessReadWrite=0
+AccessACCB=0
+AccessACCR=0
+AccessReadWriteSLP=0
+AccessReadTopLevel=1
+DisableC=1
+ENABLE_ADV_DATAFLOW=0
+FLOW_TYPE=HDL
+LANGUAGE=VERILOG
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+VerilogDirsChanged=1
+FAMILY=Xilinx Automotive_Spartan3
+
+[LocalVerilogSets]
+EnableSLP=1
+EnableDebug=0
+
+[LocalVhdlSets]
+CompileWithDebug=0
+
+[$LibMap$]
+project2=.
+Active_lib=SPARTAN3
+xilinxun=SPARTAN3
+UnlinkedDesignLibrary=SPARTAN3
+DESIGNS=SPARTAN3
+
+[Verilog Library]
+SPARTAN3=
+
+[SpecTracer]
+WindowVisible=0
+
+[HierarchyViewer]
+HierarchyInformation=
+ShowHide=ShowTopLevel
+Selected=
+
+[Groups]
+testBench=1
+Rotary=1
+RotaryQueue=1
+
+[Files]
+/simple.v=-1
+/rotary.awc=-1
+testBench/simple_tb.v=-1
+Rotary/rotary_tb.v=-1
+Rotary/rotary.v=-1
+Rotary/rotary.awc=-1
+RotaryQueue/rotaryQueue_tb.v=-1
+RotaryQueue/rotaryQueue.v=-1
+
+[Files.Data]
+.\src\simple.v=Verilog Source Code
+.\src\rotary.awc=Accelerated Waveform Configuration
+.\src\testBench\simple_tb.v=Verilog Test Bench
+.\src\Rotary\rotary_tb.v=Verilog Test Bench
+.\src\Rotary\rotary.v=Verilog Source Code
+.\src\Rotary\rotary.awc=Accelerated Waveform Configuration
+.\src\RotaryQueue\rotaryQueue_tb.v=Verilog Test Bench
+.\src\RotaryQueue\rotaryQueue.v=Verilog Source Code
+

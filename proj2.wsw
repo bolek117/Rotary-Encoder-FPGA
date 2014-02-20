@@ -1,0 +1,9 @@
+[OPENDOC|Aldec.WaveFormASDB.7|.\project2\src/rotary.awc|]
+TemplateId=0
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\project2\src\Rotary\rotary.v|]
+TemplateId=2
+ActiveDocument=1
+[OPENDOC|Aldec.WaveFormASDB.7|.\project2\src/Rotary/rotary.awc|]
+TemplateId=1
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\project2\src\Rotary\rotary_tb.v|]
+TemplateId=2

@@ -1,0 +1,1 @@
+ -u "D:\Program Files (x86)\Aldec\Active-HDL Student Edition\bin/systf.dll" -v2k5  "d:\Program Files (x86)\Aldec\Designs\proj2\project2\src\Rotary\rotary_tb.v"  -cs  -g 5  -r -li "d:\Program Files (x86)\Aldec\Designs\proj2\project2\compile\project2.epr" -p "d:\Program Files (x86)\Aldec\Designs\proj2\project2\project2"  -b "SPARTAN3" 
